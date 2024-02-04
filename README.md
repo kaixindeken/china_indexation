@@ -49,3 +49,13 @@
 </table>
 
 本项目使用老虎证券Api，如需使用请将文件 `tiger_openapi_config.properties.example` 更名为 `tiger_openapi_config.properties` ，并参考[这篇文档](https://quant.itigerup.com/openapi/zh/python/overview/openWay.html)进行相关配置。
+
+## Screenshots
+
+![](screenshots/cbfi.png)
+
+![](screenshots/f&g(cbf).png)
+
+![](screenshots/cmii.png)
+
+![](screenshots/f&g(cmi).png)
