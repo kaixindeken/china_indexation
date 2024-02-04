@@ -10,7 +10,7 @@
 
 <table>
 <tr>
-<td style="vertical-align: top">
+<td>
 
 * 香港市场
 
@@ -29,7 +29,7 @@
 |快手-W|01024|
 
 </td>
-<td style="vertical-align: top">
+<td>
 
 * 美国市场
 
