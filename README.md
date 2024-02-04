@@ -37,4 +37,4 @@
 |小鹏汽车|XPEV|
 |理想汽车|LI|
 
-本项目使用老虎证券Api，可参考[这篇文档](https://quant.itigerup.com/openapi/zh/python/overview/openWay.html)进行相关配置。
+本项目使用老虎证券Api，如需使用请将文件 `tiger_openapi_config.properties.example` 更名为 `tiger_openapi_config.properties` ，并参考[这篇文档](https://quant.itigerup.com/openapi/zh/python/overview/openWay.html)进行相关配置。
