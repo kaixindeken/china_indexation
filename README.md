@@ -60,5 +60,5 @@
 
 ![](screenshots/f&g(cmi).png)
 
-<iframe src="https://china-index.kaixindeken.top/fgicmi.html" width="700px" height="500px" frameborder="0" scrolling="no"> </iframe>
+<iframe src="https://china-index.kaixindeken.top/fgicmi.html" width="700px" height="500px" frameborder="0" scrolling="no"></iframe>
 
